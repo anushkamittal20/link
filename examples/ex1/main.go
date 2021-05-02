@@ -7,6 +7,7 @@ import (
 	"github.com/anushkamittal20/link"
 )
 
+//html document goes in the variable examplehtml
 var exampleHtml = `
 <html>
 <body>
