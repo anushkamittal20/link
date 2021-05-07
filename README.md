@@ -20,6 +20,7 @@ var exampleHtml = `
   <span>some text</span></a>
 </body>
 </html>
+`
 ```
 replace the content inside the backticks of ```var exampleHtml``` with your html.
 To execute this, run the following in the terminal
